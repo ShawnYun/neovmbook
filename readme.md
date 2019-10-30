@@ -13,7 +13,7 @@ I hate myself because I still have to say that adversarial word:
 
 but
 
-The documents that NGD builds are very standard, the kind of documents that are standard: the information is there, but the threshold is high. If you don't have a good foundation, you won't be able to understand these documents.
+The documents that NGD creates are very standard, the kind of documents that are standard: the information is there, but the threshold is high. If you don't have a good foundation, you won't be able to understand these documents.
 
 I think we need something more consistent with the learning curve. I will try to assume that I lack some skills, as a program beginner, to review a text, a piece of code. Write something in this form.
 
